@@ -1,0 +1,19 @@
+{
+  "name": "uc13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariaeduardaazeredo92-a11y/UC13.git"
+  },
+  "author": "maria eduarda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariaeduardaazeredo92-a11y/UC13/issues"
+  },
+  "homepage": "https://github.com/mariaeduardaazeredo92-a11y/UC13#readme"
+}
