@@ -1,6 +1,11 @@
 node_modules/
-
+#ignora arquivos de log
 *.log
+
+#ignora variaveis
 .env
+#ignora pastaas temporarias
+
 temp/
 dist/
+
